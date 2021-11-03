@@ -38,7 +38,7 @@
     "pug": "2.0.0-beta11",
     "pug-bootstrap": "0.0.15",
     "serve-favicon": "~2.4.5",
-    "validator": "^12.2.0",
+    "validator": "^13.7.0",
     "winston": "^2.4.1",
     "winston-daily-rotate-file": "^4.4.2",
     "winston-mongodb": "^5.0.1"
